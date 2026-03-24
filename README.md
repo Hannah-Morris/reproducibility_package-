@@ -17,5 +17,9 @@ This folder contains the scripts and processed files used to generate the main a
 ## Data access:
 - inclusion_list.sh
 
+## Processed data:
+- taxonomy_table_example.csv
+- OTU_table_example.csv
+
 ## Nb:
 These scripts are intended as a clean reproducibility package derived from the main working analysis pipeline.
